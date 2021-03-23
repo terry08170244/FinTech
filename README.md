@@ -1,2 +1,4 @@
 # Cloud Computing and FinTech
-## se
+## self introduction
+   name:張軒羽<br>
+   major:東吳大學巨資二B
