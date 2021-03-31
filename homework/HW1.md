@@ -21,4 +21,5 @@ What do you think of Cloud Computing ?
    我認為以後所有的企業都會運用雲端運算這項服務，因為雲端運算不只可以共享資源還可以隨時隨地的靈活運用，而以上述NETFLIX這種大公司都需要透過雲端運算的方式來優化自己所提供的服務，更不要說是新創公司可以透過雲端這項服務來減少在硬體上的成本及管力，以更高的效率且低成本的方式來經營自己的公司。<br>
    而目前也因為受到疫情的關係導致許多人必須在家完成自己每天的工作內容，而此時雲端運算不就又扮演了一個重要的角色嗎!
 ## 參考資料:
-   []()
+   [1.雲端運算是什麼 ? 一場改變全球的資訊服務革命](https://www.ecloudture.com/cloud-computing-information-service-revelution/)<br>
+   [2.當年，雲端教父如何成功讓Netflix成為第一間完全上雲的大型企業](https://www.ithome.com.tw/news/124389)
