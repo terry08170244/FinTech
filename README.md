@@ -17,7 +17,7 @@
 [HW1 What do you think of Cloud Computing ?](https://github.com/terry08170244/FinTech/blob/main/homework/HW1.md)<br>
 [HW2 Build a Website using Amazon EC2 with LAMP](https://youtu.be/2HZcz3yFfM0)<br>
 [HW3 Build a Website using Amazon S3(Versioning)
-and AWS Amplify]()<br>
+and AWS Amplify](https://youtu.be/x8v-bTLU3QQ)<br>
 [HW4 Build a Telegram Chatbot using Amazon API
 Gateway and AWS Lambda]()<br>
 [HW5 Create a Database using Amazon RDS or
