@@ -23,6 +23,6 @@ Gateway and AWS Lambda](https://youtu.be/A93hyoWVLts)<br>
 [HW5 Create a Database using Amazon RDS or
 Amazon DynamoDB](https://youtu.be/abXcMAXubzE)<br>
 [HW6 Create a Docker Container or Build your own
-Project Services]()<br>
+Project Services](https://youtu.be/PY7Wk7h9l7k)<br>
 ## 專案<br>
 [5/10報告](https://drive.google.com/file/d/1uhqcGaAaA3PAduFV7plz-y2H9AVFiHsl/view?usp=sharing)
